@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 087ea31dc8ab341609152a0aedf68733
+timeCreated: 1440319686
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CATRig5Bone001
+    100004: CATRig5Bone002
+    100006: CATRigHub001
+    100008: CATRigHub002
+    100010: CATRigHub003
+    100012: CATRigSpine
+    100014: CATRigSpine1
+    100016: CATRigSpine2
+    100018: CATRigSpine3
+    100020: CATRigSpine4
+    100022: CATRigSpine5
+    100024: CATRigTail1
+    100026: CATRigTail1 1
+    100028: CATRigTail1 2
+    100030: CATRigTail2
+    100032: CATRigTail2 1
+    100034: CATRigTail2 2
+    100036: CATRigTail3
+    100038: CATRigTail3 1
+    100040: CATRigTail3 2
+    100042: CATRigTail4
+    100044: CATRigTail4 1
+    100046: CATRigTail4 2
+    100048: CATRigTail5
+    100050: CATRigTail5 1
+    100052: CATRigTail5 2
+    100054: Cube
+    400000: //RootNode
+    400002: CATRig5Bone001
+    400004: CATRig5Bone002
+    400006: CATRigHub001
+    400008: CATRigHub002
+    400010: CATRigHub003
+    400012: CATRigSpine
+    400014: CATRigSpine1
+    400016: CATRigSpine2
+    400018: CATRigSpine3
+    400020: CATRigSpine4
+    400022: CATRigSpine5
+    400024: CATRigTail1
+    400026: CATRigTail1 1
+    400028: CATRigTail1 2
+    400030: CATRigTail2
+    400032: CATRigTail2 1
+    400034: CATRigTail2 2
+    400036: CATRigTail3
+    400038: CATRigTail3 1
+    400040: CATRigTail3 2
+    400042: CATRigTail4
+    400044: CATRigTail4 1
+    400046: CATRigTail4 2
+    400048: CATRigTail5
+    400050: CATRigTail5 1
+    400052: CATRigTail5 2
+    400054: Cube
+    4300000: Cube
+    7400000: swim_front
+    9500000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: swim_front
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigSpine
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigSpine/CATRigHub003
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigTail1
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigTail1
+          1/CATRigTail2 1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigTail1
+          1/CATRigTail2 1/CATRigTail3 1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigTail1
+          1/CATRigTail2 1/CATRigTail3 1/CATRigTail4 1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigTail1
+          1/CATRigTail2 1/CATRigTail3 1/CATRigTail4 1/CATRigTail5 1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigTail1
+          2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigTail1
+          2/CATRigTail2 2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigTail1
+          2/CATRigTail2 2/CATRigTail3 2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigTail1
+          2/CATRigTail2 2/CATRigTail3 2/CATRigTail4 2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigTail1
+          2/CATRigTail2 2/CATRigTail3 2/CATRigTail4 2/CATRigTail5 2
+        weight: 1
+      - path: CATRigHub001/CATRigTail1
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4/CATRigTail5
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4/CATRigTail5/CATRig5Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4/CATRigTail5/CATRig5Bone002
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
